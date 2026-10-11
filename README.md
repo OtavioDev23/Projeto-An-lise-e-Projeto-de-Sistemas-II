@@ -47,3 +47,5 @@ Separação em controllers, services, repositories, modelos de domínio/DTOs e c
 ## Documentação
 
 README e OpenAPI são pontos de partida. Completar em exercício: descrição dos endpoints, parâmetros e validações, exemplos de requisição/resposta, códigos de erro e origem dos campos. Referência à licença MIT da API de origem preservada neste projeto.
+
+A API utiliza dados estáticos de exemplo e não representa previsões reais em tempo real.

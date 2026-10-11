@@ -1,0 +1,9 @@
+[33mcommit f90b5d90cdad2fd17d6b442af580a3a561d8dc86[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/readme-squad-16[m[33m)[m
+Author: OtavioDev23 <otaviocampos437@gmail.com>
+Date:   Thu Oct 8 21:41:48 2026 -0300
+
+    Adicionado README
+
+ ...An-lise-e-Projeto-de-Sistemas-II.code-workspace | 11 [32m+++++[m
+ README.md                                          | 50 [32m+++++++++++++++++++++[m[31m-[m
+ 2 files changed, 60 insertions(+), 1 deletion(-)
